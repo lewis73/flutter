@@ -1,0 +1,10 @@
+#Fri Jul 31 08:46:12 EDT 2020
+path.2=classes_0.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=/Users/loudog/Documents/voicetest/flutter/examples/hello_world/build/app/intermediates/dex/debug/mergeLibDexDebug/out/classes_0.dex
+base.1=/Users/loudog/Documents/voicetest/flutter/examples/hello_world/build/app/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex
+base.0=/Users/loudog/Documents/voicetest/flutter/examples/hello_world/build/app/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
